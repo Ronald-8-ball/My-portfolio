@@ -198,8 +198,6 @@ section .title::after {
     filter: brightness(90%);
 }
 
-
-/* IDEA: home section styling */
 .home {
     display: flex;
     background-image: url("Pic.png");
